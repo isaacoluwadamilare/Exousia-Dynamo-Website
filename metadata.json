@@ -1,0 +1,6 @@
+{
+  "name": "Exousia HSE Platform",
+  "description": "Integrated HSE Incident, Inspection and Compliance Management System developed by Exousia Dynamo Energy Ltd for [COMPANY 2].",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
